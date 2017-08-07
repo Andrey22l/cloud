@@ -1,2 +1,5 @@
 ---
 lucky-word: Poland
+wordConfig:
+  luckyWord: Germany
+  preamble: The lucky word is
